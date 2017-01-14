@@ -7,4 +7,5 @@ opener.add_headers=[('User-agent','Mozilla/5.0')]
 url = "http://manipalthetalk.org/guides/the-manipal-directory"
 ourUrl = opener.open(url).read()
 soup = BeautifulSoup(ourUrl, 'html.parser')
-print soup
+title = soup.find('h1', attrs={'class':'post-title entry-title'}).text
+print title
