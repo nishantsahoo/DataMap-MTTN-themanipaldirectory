@@ -9,9 +9,9 @@ ourUrl = opener.open(url).read()
 soup = BeautifulSoup(ourUrl, 'html.parser')
 title = soup.find('h1', attrs={'class':'post-title entry-title'}).text
 print title
-TDlist = soup.findAll('td')
+tdList = soup.findAll('td')
 i = 0
-for each in TDlist:
+for each in tdList:
     if i % 2 == 0:
         print each.text.encode('utf-8').decode('ascii', 'ignore') + ':',
     else:
