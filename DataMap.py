@@ -7,16 +7,14 @@ opener.add_headers=[('User-agent','Mozilla/5.0')]
 url = "http://manipalthetalk.org/guides/the-manipal-directory"
 ourUrl = opener.open(url).read()
 soup = BeautifulSoup(ourUrl, 'html.parser')
-title = soup.find('h1', attrs={'class':'post-title entry-title'}).text
-print title
-tdList = soup.findAll('td')
-i = 0
-for each in tdList:
-    if i % 2 == 0:
-        if each.text.encode('utf-8').decode('ascii', 'ignore') != '':
-            print each.text.encode('utf-8').decode('ascii', 'ignore') + ':',
-    else:
-        if each.text.encode('utf-8').decode('ascii', 'ignore') != '':
-            print each.text.encode('utf-8').decode('ascii', 'ignore')
-            print
+print soup.find('h1', attrs={'class':'post-title entry-title'}).text
+mDirectory = soup.find('div', attrs={'id':'mdirectory'})
+table_list = mDirectory.findAll('table')
+i = 1
+for each in table_list:
+    thead = each.find('thead').text.encode('utf-8').decode('ascii', 'ignore')
+    print str(i) + '. ' + thead,
+    tbody = each.findChildren('tbody')
+    for each in tbody:
+        print each.text.encode('utf-8').decode('ascii', 'ignore')
     i += 1
