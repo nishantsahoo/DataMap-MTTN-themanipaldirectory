@@ -16,5 +16,6 @@ for each in table_list:
     print str(i) + '. ' + thead,
     tbody = each.findChildren('tbody')
     for tr in tbody:
-        print tr.text.encode('utf-8').decode('ascii', 'ignore')
+        print tr.text.encode('utf-8').decode('ascii', 'ignore'),
+    print
     i += 1
