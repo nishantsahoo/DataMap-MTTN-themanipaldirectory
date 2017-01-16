@@ -13,8 +13,10 @@ tdList = soup.findAll('td')
 i = 0
 for each in tdList:
     if i % 2 == 0:
-        print each.text.encode('utf-8').decode('ascii', 'ignore') + ':',
+        if each.text.encode('utf-8').decode('ascii', 'ignore') != '':
+            print each.text.encode('utf-8').decode('ascii', 'ignore') + ':',
     else:
-        print each.text.encode('utf-8').decode('ascii', 'ignore')
-        print
+        if each.text.encode('utf-8').decode('ascii', 'ignore') != '':
+            print each.text.encode('utf-8').decode('ascii', 'ignore')
+            print
     i += 1
