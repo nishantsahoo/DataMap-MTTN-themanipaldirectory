@@ -1,181 +1,21 @@
 The Manipal Directory
-Campus Patrol: 9632101004
-
-KMC Ambulance Service (Enquiry number separate, under medical services): 08202575555
-
-Fire Helpline: 08202520333
-
-Police Station: 08202570328
-
-Kamath Circle Shed (Near auto stand): 08202929866
-
-Auto Call Service: 08202574200
-
-Kamath Canteen: 9108225917
-
-Just Bake: 8204296611
-
-Dominos: 8202574126
-
-Dollops: 8202570908
-
-Apoorva Mess: 9008945448
-
-Sheela Sagar: 9844776959
-
-The Chicken Bay: 7899404040
-
-Hotspot: 08204290970
-
-Swaad: 08202572177
-
-Shalimar: 09945286166
-
-Saiba: 08202575677
-
-Eye of The Tiger: 8202495704
-
-Dishes: 8203230064
-
-Spice and Ice: 9902441234
-
-Chef-In: 8204290973
-
-KFC: 8202572583
-
-Coffee Valley: 9008232259
-
-Thaamara: 8206523418
-
-Hot Chix: 8202575757
-
-Snack Point: 7813822929
-
-Snack Shack: 8202575129
-
-Asian Caf: 9620522286
-
-Shubhams: 9731542673
-
-Danish: 8204291155
-
-Hot & Spicy: 9880801232
-
-Blue Waters: 8202573765
-
-Prax: 9886172598
-
-Guzzlers Inn: 8204292602
-
-Subway: 8202574144
-
-Yummys Kitchen: 9880876755
-
-Planet Caf: 8202572454
-
-Pangala: 8202570237
-
-Dum Biriyani Adda: 8867704108
-
-Hangout: 9008776016
-
-Charcoal: 8204293300
-
-Zebra Spot: 8204292600
-
-Amrapali: 9742382075
-
-Campus Grill: 9739940608
-
-Manipal Fried Chicken: 7338334970
-
-Konkan Railways Udupi (U): 08202531810, 08202524351
-
-Durgamba Motors (M, U): 08202574477
-
-Trade Wings Travels (M): 08202570285, 08202571499
-
-Mangalore Railway Station(G): 082022424002
-
-Jet International Travels(U): 9845187505
-
-Sri Raksha Travels(U): 9844898376
-
-Ambika Travels(U): 94822555555
-
-Siddhi Travels(M): 8202570470
-
-Sri Durgamba Tours and Travels(M): 8722206998
-
-Sahara Tours and Travels(M): 9880244957
-
-Vijayanand Travels(M): 8202571410
-
-11th and 12th Block: 9972791616
-
-NLB-21st Block: 8152937936
-
-16th Block: 9945035798
-
-13th Block: 9986294470
-
-6th Block: 9880117798
-
-17th Block: 9845358207, 9740626546
-
-14th Block: 8497871718
-
-Snow White High Tech Power Laundry (17, 18, 19, 20): 9986223736
-
-Benny Power Laundry: 08202530928
-
-Manipal Power Laundry (15th): 9379331137
-
-Dr. Suhas Bhat (Manipal Dental Solutions): 9880041652
-
-KMC Hospital Enquiry: 08202571967, 08202922761
-
-Sonia Clinic & Nursing Home (OB/GYN): 08202570334
-
-Blood Bank KMC Manipal: 08202922331
-
-HP Service Centre: 1800114141
-
-Mobile Point (Near KC): 08202572125
-
-Harsha Electronics: 08202521841
-
-Tesla Electronics: 7553268261
-
-iRepair India: 08204294550
-
-Samsung Smart Cafe: 9844276578
-
-SBI Manipal: 08202572650
-
-Snake Handler Gururaj: 9845083869
-
-Kamath Book Store: 08206061272
-
-Key Maker (M): 8884173636
-
-ION Helpline: 9844549821, 9538947460
-
-Wi-Fi Helpline: 9849564821, 08202922187
-
-Hotel Hill View: 08204292771
-
-Hotel Ashlesh: 08202572824
-
-Hotel Madhuvan Serai: 7829901250
-
-Hotel Green Park Suites: 08204295701
-
-MIT Chief Wardens Office: 08202925223, 08202922523
-
-MIT Academic Section: 08202925912
-
-MIT Finance Department: 08202922530, 08202922699
-
-EDU building Finance Department: 08202922703
-
+1. Emergency and Important Contacts
+[<tbody>\n<tr>\n<td width="159">Campus Patrol</td>\n<td width="275">9632101004</td>\n</tr>\n<tr>\n<td>KMC Ambulance Service (Enquiry number separate, under medical services)</td>\n<td>08202575555</td>\n</tr>\n<tr>\n<td>Fire Helpline</td>\n<td>08202520333</td>\n</tr>\n<tr>\n<td>Police Station</td>\n<td>08202570328</td>\n</tr>\n</tbody>]
+2. Auto Service
+[<tbody>\n<tr>\n<td width="319">Kamath Circle Shed (Near auto stand)</td>\n<td width="127">08202929866</td>\n</tr>\n<tr>\n<td>Auto Call Service</td>\n<td>08202574200</td>\n</tr>\n</tbody>]
+3. Human Food Supply.
+[<tbody>\n<tr>\n<td width="319">Kamath Canteen</td>\n<td width="127">9108225917</td>\n</tr>\n<tr>\n<td>Just Bake</td>\n<td>8204296611</td>\n</tr>\n<tr>\n<td>Domino\u2019s</td>\n<td>8202574126</td>\n</tr>\n<tr>\n<td>Dollops</td>\n<td>8202570908</td>\n</tr>\n<tr>\n<td>Apoorva Mess</td>\n<td>9008945448</td>\n</tr>\n<tr>\n<td>Sheela Sagar</td>\n<td>9844776959</td>\n</tr>\n<tr>\n<td>The Chicken Bay</td>\n<td>7899404040</td>\n</tr>\n<tr>\n<td>Hotspot</td>\n<td>08204290970</td>\n</tr>\n<tr>\n<td>Swaad</td>\n<td>08202572177</td>\n</tr>\n<tr>\n<td>Shalimar</td>\n<td>09945286166</td>\n</tr>\n<tr>\n<td>Saiba</td>\n<td>08202575677</td>\n</tr>\n<tr>\n<td>Eye of The Tiger</td>\n<td>8202495704</td>\n</tr>\n<tr>\n<td>Dishes</td>\n<td>8203230064</td>\n</tr>\n<tr>\n<td>Spice and Ice</td>\n<td>9902441234</td>\n</tr>\n<tr>\n<td>Chef-In</td>\n<td>8204290973</td>\n</tr>\n<tr>\n<td>KFC</td>\n<td>8202572583</td>\n</tr>\n<tr>\n<td>Coffee Valley</td>\n<td>9008232259</td>\n</tr>\n<tr>\n<td>Thaamara</td>\n<td>8206523418</td>\n</tr>\n<tr>\n<td>Hot Chix</td>\n<td>8202575757</td>\n</tr>\n<tr>\n<td>Snack Point</td>\n<td>7813822929</td>\n</tr>\n<tr>\n<td>Snack Shack</td>\n<td>8202575129</td>\n</tr>\n<tr>\n<td>Asian Caf\xe9</td>\n<td>9620522286</td>\n</tr>\n<tr>\n<td>Shubham\u2019s</td>\n<td>9731542673</td>\n</tr>\n<tr>\n<td>Danish</td>\n<td>8204291155</td>\n</tr>\n<tr>\n<td>Hot &amp; Spicy</td>\n<td>9880801232</td>\n</tr>\n<tr>\n<td>Blue Waters</td>\n<td>8202573765</td>\n</tr>\n<tr>\n<td>Prax</td>\n<td>9886172598</td>\n</tr>\n<tr>\n<td>Guzzler\u2019s Inn</td>\n<td>8204292602</td>\n</tr>\n<tr>\n<td>Subway</td>\n<td>8202574144</td>\n</tr>\n<tr>\n<td>Yummy\u2019s Kitchen</td>\n<td>9880876755</td>\n</tr>\n<tr>\n<td>Planet Caf\xe9</td>\n<td>8202572454</td>\n</tr>\n<tr>\n<td>Pangala</td>\n<td>8202570237</td>\n</tr>\n<tr>\n<td>Dum Biriyani Adda</td>\n<td>8867704108</td>\n</tr>\n<tr>\n<td>Hangout</td>\n<td>9008776016</td>\n</tr>\n<tr>\n<td>Charcoal</td>\n<td>8204293300</td>\n</tr>\n<tr>\n<td>Zebra Spot</td>\n<td>8204292600</td>\n</tr>\n<tr>\n<td>Amrapali</td>\n<td>9742382075</td>\n</tr>\n<tr>\n<td>Campus Grill</td>\n<td>9739940608</td>\n</tr>\n<tr>\n<td>Manipal Fried Chicken</td>\n<td>7338334970</td>\n</tr>\n</tbody>]
+4. Travel Agencies:
+[<tbody>\n<tr>\n<td width="320">Konkan Railways Udupi (U)</td>\n<td width="140">08202531810, 08202524351</td>\n</tr>\n<tr>\n<td>Durgamba Motors (M, U)</td>\n<td>08202574477</td>\n</tr>\n<tr>\n<td>Trade Wings Travels (M)</td>\n<td>08202570285, 08202571499</td>\n</tr>\n<tr>\n<td>Mangalore Railway Station(G)</td>\n<td>082022424002</td>\n</tr>\n<tr>\n<td>Jet International Travels(U)</td>\n<td>9845187505</td>\n</tr>\n<tr>\n<td>Sri Raksha Travels(U)</td>\n<td>9844898376</td>\n</tr>\n<tr>\n<td>Ambika Travels(U)</td>\n<td>94822555555</td>\n</tr>\n<tr>\n<td>Siddhi Travels(M)</td>\n<td>8202570470</td>\n</tr>\n<tr>\n<td>Sri Durgamba Tours and Travels(M)</td>\n<td>8722206998</td>\n</tr>\n<tr>\n<td>Sahara Tours and Travels(M)</td>\n<td>9880244957</td>\n</tr>\n<tr>\n<td>Vijayanand Travels(M)</td>\n<td>8202571410</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n</tbody>]
+5. Laundry Services
+[<tbody>\n<tr>\n<td width="253">11th and 12th Block</td>\n<td width="235">9972791616</td>\n</tr>\n<tr>\n<td>NLB-21st Block</td>\n<td>8152937936</td>\n</tr>\n<tr>\n<td>16th Block</td>\n<td>9945035798</td>\n</tr>\n<tr>\n<td>13th Block</td>\n<td>9986294470</td>\n</tr>\n<tr>\n<td>6th Block</td>\n<td>9880117798</td>\n</tr>\n<tr>\n<td>17th Block</td>\n<td>9845358207, 9740626546</td>\n</tr>\n<tr>\n<td>14th Block</td>\n<td>8497871718</td>\n</tr>\n<tr>\n<td>Snow White High Tech Power Laundry (17, 18, 19, 20)</td>\n<td>9986223736</td>\n</tr>\n<tr>\n<td>Benny Power Laundry</td>\n<td>08202530928</td>\n</tr>\n<tr>\n<td>Manipal Power Laundry (15th)</td>\n<td>9379331137</td>\n</tr>\n</tbody>]
+6. Medical Services
+[<tbody>\n<tr>\n<td width="319">Dr. Suhas Bhat (Manipal Dental Solutions)</td>\n<td width="216">9880041652</td>\n</tr>\n<tr>\n<td>KMC Hospital Enquiry</td>\n<td>08202571967, 08202922761</td>\n</tr>\n<tr>\n<td>Sonia Clinic &amp; Nursing Home (OB/GYN)</td>\n<td>08202570334</td>\n</tr>\n<tr>\n<td>Blood Bank KMC Manipal</td>\n<td>08202922331</td>\n</tr>\n</tbody>]
+7. Project Work and Tech Stores
+[<tbody>\n<tr>\n<td width="321">HP Service Centre</td>\n<td width="128">1800114141</td>\n</tr>\n<tr>\n<td>Mobile Point (Near KC)</td>\n<td>08202572125</td>\n</tr>\n<tr>\n<td>Harsha Electronics</td>\n<td>08202521841</td>\n</tr>\n<tr>\n<td>Tesla Electronics</td>\n<td>7553268261</td>\n</tr>\n<tr>\n<td>iRepair India</td>\n<td>08204294550</td>\n</tr>\n<tr>\n<td>Samsung Smart Cafe</td>\n<td>9844276578</td>\n</tr>\n</tbody>]
+8. Miscellaneous Services
+[<tbody>\n<tr>\n<td width="319">SBI Manipal</td>\n<td width="193">08202572650</td>\n</tr>\n<tr>\n<td>Snake Handler Gururaj</td>\n<td>9845083869</td>\n</tr>\n<tr>\n<td>Kamath Book Store</td>\n<td>08206061272</td>\n</tr>\n<tr>\n<td>Key Maker (M)</td>\n<td>8884173636</td>\n</tr>\n<tr>\n<td>ION Helpline</td>\n<td>9844549821, 9538947460</td>\n</tr>\n<tr>\n<td>Wi-Fi Helpline</td>\n<td>9849564821, 08202922187</td>\n</tr>\n</tbody>]
+9. Hotels and Accommodation
+[<tbody>\n<tr>\n<td width="321">Hotel Hill View</td>\n<td width="128">08204292771</td>\n</tr>\n<tr>\n<td>Hotel Ashlesh</td>\n<td>08202572824</td>\n</tr>\n<tr>\n<td>Hotel Madhuvan Serai</td>\n<td>7829901250</td>\n</tr>\n<tr>\n<td>Hotel Green Park Suites</td>\n<td>08204295701</td>\n</tr>\n</tbody>]
+10. Manipal University Colleges Departments
+[<tbody>\n<tr>\n<td width="227">MIT Chief Warden\u2019s Office</td>\n<td width="194">08202925223, 08202922523</td>\n</tr>\n<tr>\n<td>MIT Academic Section</td>\n<td>08202925912</td>\n</tr>\n<tr>\n<td>MIT Finance Department</td>\n<td>08202922530, 08202922699</td>\n</tr>\n<tr>\n<td>EDU building Finance Department</td>\n<td>08202922703</td>\n</tr>\n</tbody>]
