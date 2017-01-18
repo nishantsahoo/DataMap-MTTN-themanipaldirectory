@@ -15,7 +15,12 @@ k = 0
 for each in table_list:
     thead = each.find('thead').text.encode('utf-8').decode('ascii', 'ignore')
     print str(i) + '. ' + thead
-    tBody = each.findChildren('tbody')
-    print tBody
+    tRows = each.findAll('tr')
+    for each in tRows:
+        for td in each:
+            for x in td:
+                print x.encode('utf-8').decode('ascii', 'ignore'),
+        print '-----'
+
     i += 1
 
