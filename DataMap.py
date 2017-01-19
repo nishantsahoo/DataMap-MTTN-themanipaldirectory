@@ -21,11 +21,11 @@ for each in table_list:
     for tr in tRows:
         tdList = tr.findAll('td')
         for td in tdList:
-            if k %2 == 0:
-                print td.text.encode('utf-8').decode('ascii', 'ignore') + ':',
-            else:
-                print td.text.encode('utf-8').decode('ascii', 'ignore')
-            k += 1
+            if td.text.encode('utf-8').decode('ascii', 'ignore'):
+                if k %2 == 0:
+                    print td.text.encode('utf-8').decode('ascii', 'ignore') + ':',
+                else:
+                    print td.text.encode('utf-8').decode('ascii', 'ignore')
+                k += 1
         print
-
     i += 1
