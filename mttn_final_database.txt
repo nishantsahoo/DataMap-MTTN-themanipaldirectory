@@ -7,7 +7,6 @@ Police Station: 08202570328
 Kamath Circle Shed (Near auto stand): 08202929866
 Auto Call Service: 08202574200
 3. Human Food Supply.
-
 Kamath Canteen: 9108225917
 Just Bake: 8204296611
 Dominos: 8202574126
@@ -47,8 +46,7 @@ Zebra Spot: 8204292600
 Amrapali: 9742382075
 Campus Grill: 9739940608
 Manipal Fried Chicken: 7338334970
-4. 
-Travel Agencies
+4. Travel Agencies:
 Konkan Railways Udupi (U): 08202531810, 08202524351
 Durgamba Motors (M, U): 08202574477
 Trade Wings Travels (M): 08202570285, 08202571499
@@ -61,7 +59,6 @@ Sri Durgamba Tours and Travels(M): 8722206998
 Sahara Tours and Travels(M): 9880244957
 Vijayanand Travels(M): 8202571410
 5. Laundry Services
-
 11th and 12th Block: 9972791616
 NLB-21st Block: 8152937936
 16th Block: 9945035798
@@ -73,13 +70,11 @@ Snow White High Tech Power Laundry (17, 18, 19, 20): 9986223736
 Benny Power Laundry: 08202530928
 Manipal Power Laundry (15th): 9379331137
 6. Medical Services
-
 Dr. Suhas Bhat (Manipal Dental Solutions): 9880041652
 KMC Hospital Enquiry: 08202571967, 08202922761
 Sonia Clinic & Nursing Home (OB/GYN): 08202570334
 Blood Bank KMC Manipal: 08202922331
 7. Project Work and Tech Stores
-
 HP Service Centre: 1800114141
 Mobile Point (Near KC): 08202572125
 Harsha Electronics: 08202521841
@@ -87,7 +82,6 @@ Tesla Electronics: 7553268261
 iRepair India: 08204294550
 Samsung Smart Cafe: 9844276578
 8. Miscellaneous Services
-
 SBI Manipal: 08202572650
 Snake Handler Gururaj: 9845083869
 Kamath Book Store: 08206061272
@@ -95,13 +89,11 @@ Key Maker (M): 8884173636
 ION Helpline: 9844549821, 9538947460
 Wi-Fi Helpline: 9849564821, 08202922187
 9. Hotels and Accommodation
-
 Hotel Hill View: 08204292771
 Hotel Ashlesh: 08202572824
 Hotel Madhuvan Serai: 7829901250
 Hotel Green Park Suites: 08204295701
 10. Manipal University Colleges Departments
-
 MIT Chief Wardens Office: 08202925223, 08202922523
 MIT Academic Section: 08202925912
 MIT Finance Department: 08202922530, 08202922699
