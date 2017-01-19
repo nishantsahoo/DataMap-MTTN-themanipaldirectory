@@ -14,14 +14,14 @@ table_list = mDirectory.findAll('table')
 i = 1
 k = 0
 for each in table_list:
-    thead = each.find('thead').text.encode('utf-8').decode('ascii', 'ignore')
-    print str(i) + '. ' + thead
+    tHead = each.find('thead').text.encode('utf-8').decode('ascii', 'ignore')
+    print str(i) + '. ' + tHead
     tRows = each.findAll('tr')
     for tr in tRows:
         tdList = tr.findAll('td')
         for td in tdList:
             if td.text.encode('utf-8').decode('ascii', 'ignore'):
-                if k %2 == 0:
+                if k % 2 == 0:
                     print td.text.encode('utf-8').decode('ascii', 'ignore') + ':',
                 else:
                     print td.text.encode('utf-8').decode('ascii', 'ignore')
