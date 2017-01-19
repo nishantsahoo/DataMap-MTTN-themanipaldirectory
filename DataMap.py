@@ -16,7 +16,6 @@ k = 0
 for each in table_list:
     thead = each.find('thead').text.encode('utf-8').decode('ascii', 'ignore')
     print str(i) + '. ' + thead
-    # print
     tRows = each.findAll('tr')
     for tr in tRows:
         tdList = tr.findAll('td')
@@ -27,5 +26,5 @@ for each in table_list:
                 else:
                     print td.text.encode('utf-8').decode('ascii', 'ignore')
                 k += 1
-        # print
+            # print
     i += 1
