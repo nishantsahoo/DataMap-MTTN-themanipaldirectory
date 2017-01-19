@@ -8,6 +8,7 @@ url = "http://manipalthetalk.org/guides/the-manipal-directory"
 ourUrl = opener.open(url).read()
 soup = BeautifulSoup(ourUrl, 'html.parser')
 print soup.find('h1', attrs={'class':'post-title entry-title'}).text
+print
 mDirectory = soup.find('div', attrs={'id':'mdirectory'})
 table_list = mDirectory.findAll('table')
 i = 1
@@ -15,12 +16,16 @@ k = 0
 for each in table_list:
     thead = each.find('thead').text.encode('utf-8').decode('ascii', 'ignore')
     print str(i) + '. ' + thead
+    print
     tRows = each.findAll('tr')
-    for each in tRows:
-        for td in each:
-            for x in td:
-                print x.encode('utf-8').decode('ascii', 'ignore'),
-        print '-----'
+    for tr in tRows:
+        tdList = tr.findAll('td')
+        for td in tdList:
+            if k %2 == 0:
+                print td.text.encode('utf-8').decode('ascii', 'ignore') + ':',
+            else:
+                print td.text.encode('utf-8').decode('ascii', 'ignore')
+            k += 1
+        print
 
     i += 1
-
