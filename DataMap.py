@@ -1,15 +1,21 @@
 import urllib2
 import sys
 from bs4 import BeautifulSoup
-sys.stdout = open('mttn_final_database.txt', 'w')
+sys.stdout = open('mttn_data_map_testing.txt', 'w')
 opener = urllib2.build_opener()
 opener.add_headers = [('User-agent', 'Mozilla/5.0')]
 url = "http://manipalthetalk.org/guides/the-manipal-directory"
 ourUrl = opener.open(url).read()
 soup = BeautifulSoup(ourUrl, 'html.parser')
+
 # print soup.find('h1', attrs={'class':'post-title entry-title'}).text
 # print
-mDirectory = soup.find('div', attrs={'id': 'mdirectory'})
+wrapper = soup.find('div', attrs={'id': 'wrapper'})
+print wrapper
+inner = soup.find('div', attrs={'class': 'inner'})
+print inner
+'''
+mDirectory = inner.find('div', attrs={'id': 'mdirectory'})
 table_list = mDirectory.findAll('table')
 k, i = 0, 1
 for each in table_list:
@@ -27,3 +33,4 @@ for each in table_list:
                 k += 1
             # print
     i += 1
+'''
