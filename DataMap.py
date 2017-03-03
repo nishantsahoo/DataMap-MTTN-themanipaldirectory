@@ -12,8 +12,7 @@ soup = BeautifulSoup(ourUrl, 'html.parser')
 # print
 wrapper = soup.find('div', attrs={'id': 'wrapper'})
 main_inner_group = wrapper.find('div', attrs={'class': 'main-inner group'})
-print main_inner_group
-inner = soup.find('div', attrs={'class': 'inner'})
+inner = main_inner_group.find('div', attrs={'class': 'entry-inner'})
 print inner
 '''
 mDirectory = inner.find('div', attrs={'id': 'mdirectory'})
