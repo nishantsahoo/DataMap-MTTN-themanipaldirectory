@@ -1,452 +1,100 @@
-<div class="entry-inner">
-<img alt="" class="attachment-large size-large wp-post-image" height="640" sizes="(max-width: 960px) 100vw, 960px" src="https://i0.wp.com/manipalthetalk.org/wp-content/uploads/2016/07/10647087_938755082808508_7233681306722844292_n.jpg?fit=960%2C640" srcset="https://i0.wp.com/manipalthetalk.org/wp-content/uploads/2016/07/10647087_938755082808508_7233681306722844292_n.jpg?w=960 960w, https://i0.wp.com/manipalthetalk.org/wp-content/uploads/2016/07/10647087_938755082808508_7233681306722844292_n.jpg?resize=300%2C200 300w, https://i0.wp.com/manipalthetalk.org/wp-content/uploads/2016/07/10647087_938755082808508_7233681306722844292_n.jpg?resize=768%2C512 768w" width="960"/><p>We believe that every city, every town and every village that we live in should be explored to its last square meter, its facilities used judiciously to sustain the local economy, and the region’s delicacies be consumed with gusto. The Manipal Directory is something that was born out of that ideal, as a service by the students and people of Manipal to serve anyone visiting Manipal, and to help every resident experience it like a local — cash-savvy and in style.</p>
-<p>A few tips to use this directory:</p>
-<ul>
-<li>The phone numbers are clickable if you’re reading this on your smartphone (few browsers might lack support).</li>
-<li>This is a crowdsourced directory; this means that any inaccuracies or missing services you find, you send us a message at our FB page: <a href="https://www.facebook.com/manipalthetalk.net/">MTTN on FB</a> or using the direct messenger link: <a href="http://m.me/manipalthetalk.net">MTTN IS COOL .-.</a></li>
-<li>And you’ll benefit when someone else sends in that contact for that cool new restaurant you’ve always wanted to go to but were too lazy to, so you can now order comfortably from your bed with your laptop on your belly.</li>
-<li>King of all Bookmarks. This is a living directory, constantly changing and expanding, make the most of it and keep it where you can pull it up in a second (or ten).</li>
-</ul>
-<ol>
-<li><a href="#1">Emergency and Important Contacts</a></li>
-<li><a href="#2">Auto Service</a></li>
-<li><a href="#3">Restaurants</a></li>
-<li><a href="#4">Travel Agencies</a></li>
-<li><a href="#5">Laundry Services</a></li>
-<li><a href="#6">Medical Services</a></li>
-<li><a href="#7">Project Work and Tech Stores</a></li>
-<li><a href="#8">Miscellaneous Services</a></li>
-<li><a href="#9">Hotels and Accommodation</a></li>
-<li><a href="#10">Automobile Services</a></li>
-<li><a href="#11">Manipal University Colleges’ Departments</a></li>
-</ol>
-<p> </p>
-<div id="mdirectory">
-<table id="ec" width="434">
-<thead id="1">Emergency and Important Contacts:</thead>
-<tbody>
-<tr>
-<td width="159">Campus Patrol</td>
-<td width="275">9632101004</td>
-</tr>
-<tr>
-<td>KMC Ambulance Service (Enquiry number separate, under medical services)</td>
-<td>08202575555</td>
-</tr>
-<tr>
-<td>Fire Helpline</td>
-<td>08202520333</td>
-</tr>
-<tr>
-<td>Police Station</td>
-<td>08202570328</td>
-</tr>
-</tbody>
-</table>
-<table id="as" width="440">
-<thead id="2">Auto Service:</thead>
-<tbody>
-<tr>
-<td width="319">Kamath Circle Shed (Near auto stand)</td>
-<td width="127">08202929866</td>
-</tr>
-<tr>
-<td>Auto Call Service</td>
-<td>08202574200</td>
-</tr>
-</tbody>
-</table>
-<table id="hf" width="446">
-<thead id="3">Human Food Supply:</thead>
-<tbody>
-<tr>
-<td width="319">Kamath Canteen</td>
-<td width="127">9108225917</td>
-</tr>
-<tr>
-<td>Just Bake</td>
-<td>8204296611</td>
-</tr>
-<tr>
-<td>Domino’s</td>
-<td>8202574126</td>
-</tr>
-<tr>
-<td>Dollops</td>
-<td>8202570908</td>
-</tr>
-<tr>
-<td>Apoorva Mess</td>
-<td>9008945448</td>
-</tr>
-<tr>
-<td>Sheela Sagar</td>
-<td>9844776959</td>
-</tr>
-<tr>
-<td>The Chicken Bay</td>
-<td>7899404040</td>
-</tr>
-<tr>
-<td>Hotspot</td>
-<td>08204290970</td>
-</tr>
-<tr>
-<td>Swaad</td>
-<td>08202572177</td>
-</tr>
-<tr>
-<td>Shalimar</td>
-<td>09945286166</td>
-</tr>
-<tr>
-<td>Saiba</td>
-<td>08202575677</td>
-</tr>
-<tr>
-<td>Eye of The Tiger</td>
-<td>8202495704</td>
-</tr>
-<tr>
-<td>Dishes</td>
-<td>8203230064</td>
-</tr>
-<tr>
-<td>Spice and Ice</td>
-<td>9902441234</td>
-</tr>
-<tr>
-<td>Chef-In</td>
-<td>8204290973</td>
-</tr>
-<tr>
-<td>KFC</td>
-<td>8202572583</td>
-</tr>
-<tr>
-<td>Coffee Valley</td>
-<td>9008232259</td>
-</tr>
-<tr>
-<td>Thaamara</td>
-<td>8206523418</td>
-</tr>
-<tr>
-<td>Hot Chix</td>
-<td>8202575757</td>
-</tr>
-<tr>
-<td>Snack Point</td>
-<td>7813822929</td>
-</tr>
-<tr>
-<td>Snack Shack</td>
-<td>8202575129</td>
-</tr>
-<tr>
-<td>Asian Café</td>
-<td>9620522286</td>
-</tr>
-<tr>
-<td>Shubham’s</td>
-<td>9731542673</td>
-</tr>
-<tr>
-<td>Danish</td>
-<td>8204291155</td>
-</tr>
-<tr>
-<td>Hot &amp; Spicy</td>
-<td>9880801232</td>
-</tr>
-<tr>
-<td>Blue Waters</td>
-<td>8202573765</td>
-</tr>
-<tr>
-<td>Prax</td>
-<td>9886172598</td>
-</tr>
-<tr>
-<td>Guzzler’s Inn</td>
-<td>8204292602</td>
-</tr>
-<tr>
-<td>Subway</td>
-<td>8202574144</td>
-</tr>
-<tr>
-<td>Yummy’s Kitchen</td>
-<td>9880876755</td>
-</tr>
-<tr>
-<td>Planet Café</td>
-<td>8202572454</td>
-</tr>
-<tr>
-<td>Pangala</td>
-<td>8202570237</td>
-</tr>
-<tr>
-<td>Dum Biriyani Adda</td>
-<td>8867704108</td>
-</tr>
-<tr>
-<td>Hangout</td>
-<td>9008776016</td>
-</tr>
-<tr>
-<td>Charcoal</td>
-<td>8204293300</td>
-</tr>
-<tr>
-<td>Zebra Spot</td>
-<td>8204292600</td>
-</tr>
-<tr>
-<td>Amrapali</td>
-<td>9742382075</td>
-</tr>
-<tr>
-<td>Campus Grill</td>
-<td>9739940608</td>
-</tr>
-<tr>
-<td>Manipal Fried Chicken</td>
-<td>7338334970</td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<table id="ta" width="460">
-<thead id="4">Travel Agencies:</thead>
-<tbody>
-<tr>
-<td width="320">Konkan Railways Udupi (U)</td>
-<td width="140">08202531810, 08202524351</td>
-</tr>
-<tr>
-<td>Durgamba Motors (M, U)</td>
-<td>08202574477</td>
-</tr>
-<tr>
-<td>Trade Wings Travels (M)</td>
-<td>08202570285, 08202571499</td>
-</tr>
-<tr>
-<td>Mangalore Railway Station(G)</td>
-<td>082022424002</td>
-</tr>
-<tr>
-<td>Jet International Travels(U)</td>
-<td>9845187505</td>
-</tr>
-<tr>
-<td>Sri Raksha Travels(U)</td>
-<td>9844898376</td>
-</tr>
-<tr>
-<td>Ambika Travels(U)</td>
-<td>94822555555</td>
-</tr>
-<tr>
-<td>Siddhi Travels(M)</td>
-<td>8202570470</td>
-</tr>
-<tr>
-<td>Sri Durgamba Tours and Travels(M)</td>
-<td>8722206998</td>
-</tr>
-<tr>
-<td>Sahara Tours and Travels(M)</td>
-<td>9880244957</td>
-</tr>
-<tr>
-<td>Vijayanand Travels(M)</td>
-<td>8202571410</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<table id="ls" width="488">
-<thead id="5">Laundry Services:</thead>
-<tbody>
-<tr>
-<td width="253">11th and 12th Block</td>
-<td width="235">9972791616</td>
-</tr>
-<tr>
-<td>NLB-21st Block</td>
-<td>8152937936</td>
-</tr>
-<tr>
-<td>16th Block</td>
-<td>9945035798</td>
-</tr>
-<tr>
-<td>13th Block</td>
-<td>9986294470</td>
-</tr>
-<tr>
-<td>6th Block</td>
-<td>9880117798</td>
-</tr>
-<tr>
-<td>17th Block</td>
-<td>9845358207, 9740626546</td>
-</tr>
-<tr>
-<td>14th Block</td>
-<td>8497871718</td>
-</tr>
-<tr>
-<td>Snow White High Tech Power Laundry (17, 18, 19, 20)</td>
-<td>9986223736</td>
-</tr>
-<tr>
-<td>Benny Power Laundry</td>
-<td>08202530928</td>
-</tr>
-<tr>
-<td>Manipal Power Laundry (15th)</td>
-<td>9379331137</td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<table id="ms" width="535">
-<thead id="6">Medical Services:</thead>
-<tbody>
-<tr>
-<td width="319">Dr. Suhas Bhat (Manipal Dental Solutions)</td>
-<td width="216">9880041652</td>
-</tr>
-<tr>
-<td>KMC Hospital Enquiry</td>
-<td>08202571967, 08202922761</td>
-</tr>
-<tr>
-<td>Sonia Clinic &amp; Nursing Home (OB/GYN)</td>
-<td>08202570334</td>
-</tr>
-<tr>
-<td>Blood Bank KMC Manipal</td>
-<td>08202922331</td>
-</tr>
-</tbody>
-</table>
-<table id="pt" width="449">
-<thead id="7">Project Work and Tech Stores:</thead>
-<tbody>
-<tr>
-<td width="321">HP Service Centre</td>
-<td width="128">1800114141</td>
-</tr>
-<tr>
-<td>Mobile Point (Near KC)</td>
-<td>08202572125</td>
-</tr>
-<tr>
-<td>Harsha Electronics</td>
-<td>08202521841</td>
-</tr>
-<tr>
-<td>Tesla Electronics</td>
-<td>7553268261</td>
-</tr>
-<tr>
-<td>iRepair India</td>
-<td>08204294550</td>
-</tr>
-<tr>
-<td>Samsung Smart Cafe</td>
-<td>9844276578</td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<table id="mis" width="512">
-<thead id="8">Miscellaneous Services:</thead>
-<tbody>
-<tr>
-<td width="319">SBI Manipal</td>
-<td width="193">08202572650</td>
-</tr>
-<tr>
-<td>Snake Handler Gururaj</td>
-<td>9845083869</td>
-</tr>
-<tr>
-<td>Kamath Book Store</td>
-<td>08206061272</td>
-</tr>
-<tr>
-<td>Key Maker (M)</td>
-<td>8884173636</td>
-</tr>
-<tr>
-<td>ION Helpline</td>
-<td>9844549821, 9538947460</td>
-</tr>
-<tr>
-<td>Wi-Fi Helpline</td>
-<td>9849564821, 08202922187</td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<table id="ha" width="449">
-<thead id="9">Hotels and Accommodation:</thead>
-<tbody>
-<tr>
-<td width="321">Hotel Hill View</td>
-<td width="128">08204292771</td>
-</tr>
-<tr>
-<td>Hotel Ashlesh</td>
-<td>08202572824</td>
-</tr>
-<tr>
-<td>Hotel Madhuvan Serai</td>
-<td>7829901250</td>
-</tr>
-<tr>
-<td>Hotel Green Park Suites</td>
-<td>08204295701</td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<thead id="10">Automobile Services:</thead>
-<p>We’d rather not mention individual mechanics since their levels of experience with the brands vary, and some owners might even prefer to go directly to the service centers of the bike company. Please make sure your bikes are handlebar locked at all times and that you don’t leave it in a deserted area; a few reports of stolen bikes have come in, maybe not as many as a city, but why take chances? Also, make sure you <em>never</em> touch a bike when you have alcohol in your system. That’s why this article exists, call an auto. And wear a helmet at all times, checks are routinely done.</p>
-<table id="dep" width="421">
-<thead id="11">Manipal University Colleges’ Departments:</thead>
-<tbody>
-<tr>
-<td width="227">MIT Chief Warden’s Office</td>
-<td width="194">08202925223, 08202922523</td>
-</tr>
-<tr>
-<td>MIT Academic Section</td>
-<td>08202925912</td>
-</tr>
-<tr>
-<td>MIT Finance Department</td>
-<td>08202922530, 08202922699</td>
-</tr>
-<tr>
-<td>EDU building Finance Department</td>
-<td>08202922703</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p> </p>
-<p>-The MTTN Crew</p>
-<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-3394" href="http://manipalthetalk.org/guides/the-manipal-directory/?share=facebook" rel="nofollow" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-jetpack-whatsapp"><a class="share-jetpack-whatsapp sd-button share-icon no-text" data-shared="" href="whatsapp://send?text=The%20Manipal%20Directory http%3A%2F%2Fmanipalthetalk.org%2Fguides%2Fthe-manipal-directory%2F" rel="nofollow" target="_blank" title="Click to share on WhatsApp"><span></span><span class="sharing-screen-reader-text">Click to share on WhatsApp (Opens in new window)</span></a></li><li class="share-twitter"><a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-3394" href="http://manipalthetalk.org/guides/the-manipal-directory/?share=twitter" rel="nofollow" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-tumblr"><a class="share-tumblr sd-button share-icon no-text" data-shared="" href="http://manipalthetalk.org/guides/the-manipal-directory/?share=tumblr" rel="nofollow" target="_blank" title="Click to share on Tumblr"><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded" data-name="like-post-frame-116941520-3394-58b916fa96a9f" data-src="//widgets.wp.com/likes/#blog_id=116941520&amp;post_id=3394&amp;origin=manipalthetalk.org&amp;obj_id=116941520-3394-58b916fa96a9f" id="like-post-wrapper-116941520-3394-58b916fa96a9f"><h3 class="sd-title">Like this:</h3><div class="likes-widget-placeholder post-likes-widget-placeholder" style="height: 55px;"><span class="button"><span>Like</span></span> <span class="loading">Loading...</span></div><span class="sd-text-color"></span><a class="sd-link-color"></a></div> <nav class="pagination group">
-</nav><!--/.pagination-->
-</div>
+1. Emergency and Important Contacts:
+Campus Patrol: 9632101004
+KMC Ambulance Service (Enquiry number separate, under medical services): 08202575555
+Fire Helpline: 08202520333
+Police Station: 08202570328
+2. Auto Service:
+Kamath Circle Shed (Near auto stand): 08202929866
+Auto Call Service: 08202574200
+3. Human Food Supply:
+Kamath Canteen: 9108225917
+Just Bake: 8204296611
+Dominos: 8202574126
+Dollops: 8202570908
+Apoorva Mess: 9008945448
+Sheela Sagar: 9844776959
+The Chicken Bay: 7899404040
+Hotspot: 08204290970
+Swaad: 08202572177
+Shalimar: 09945286166
+Saiba: 08202575677
+Eye of The Tiger: 8202495704
+Dishes: 8203230064
+Spice and Ice: 9902441234
+Chef-In: 8204290973
+KFC: 8202572583
+Coffee Valley: 9008232259
+Thaamara: 8206523418
+Hot Chix: 8202575757
+Snack Point: 7813822929
+Snack Shack: 8202575129
+Asian Caf: 9620522286
+Shubhams: 9731542673
+Danish: 8204291155
+Hot & Spicy: 9880801232
+Blue Waters: 8202573765
+Prax: 9886172598
+Guzzlers Inn: 8204292602
+Subway: 8202574144
+Yummys Kitchen: 9880876755
+Planet Caf: 8202572454
+Pangala: 8202570237
+Dum Biriyani Adda: 8867704108
+Hangout: 9008776016
+Charcoal: 8204293300
+Zebra Spot: 8204292600
+Amrapali: 9742382075
+Campus Grill: 9739940608
+Manipal Fried Chicken: 7338334970
+4. Travel Agencies:
+Konkan Railways Udupi (U): 08202531810, 08202524351
+Durgamba Motors (M, U): 08202574477
+Trade Wings Travels (M): 08202570285, 08202571499
+Mangalore Railway Station(G): 082022424002
+Jet International Travels(U): 9845187505
+Sri Raksha Travels(U): 9844898376
+Ambika Travels(U): 94822555555
+Siddhi Travels(M): 8202570470
+Sri Durgamba Tours and Travels(M): 8722206998
+Sahara Tours and Travels(M): 9880244957
+Vijayanand Travels(M): 8202571410
+5. Laundry Services:
+11th and 12th Block: 9972791616
+NLB-21st Block: 8152937936
+16th Block: 9945035798
+13th Block: 9986294470
+6th Block: 9880117798
+17th Block: 9845358207, 9740626546
+14th Block: 8497871718
+Snow White High Tech Power Laundry (17, 18, 19, 20): 9986223736
+Benny Power Laundry: 08202530928
+Manipal Power Laundry (15th): 9379331137
+6. Medical Services:
+Dr. Suhas Bhat (Manipal Dental Solutions): 9880041652
+KMC Hospital Enquiry: 08202571967, 08202922761
+Sonia Clinic & Nursing Home (OB/GYN): 08202570334
+Blood Bank KMC Manipal: 08202922331
+7. Project Work and Tech Stores:
+HP Service Centre: 1800114141
+Mobile Point (Near KC): 08202572125
+Harsha Electronics: 08202521841
+Tesla Electronics: 7553268261
+iRepair India: 08204294550
+Samsung Smart Cafe: 9844276578
+8. Miscellaneous Services:
+SBI Manipal: 08202572650
+Snake Handler Gururaj: 9845083869
+Kamath Book Store: 08206061272
+Key Maker (M): 8884173636
+ION Helpline: 9844549821, 9538947460
+Wi-Fi Helpline: 9849564821, 08202922187
+9. Hotels and Accommodation:
+Hotel Hill View: 08204292771
+Hotel Ashlesh: 08202572824
+Hotel Madhuvan Serai: 7829901250
+Hotel Green Park Suites: 08204295701
+10. Manipal University Colleges Departments:
+MIT Chief Wardens Office: 08202925223, 08202922523
+MIT Academic Section: 08202925912
+MIT Finance Department: 08202922530, 08202922699
+EDU building Finance Department: 08202922703
