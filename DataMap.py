@@ -11,7 +11,8 @@ soup = BeautifulSoup(ourUrl, 'html.parser')
 # print soup.find('h1', attrs={'class':'post-title entry-title'}).text
 # print
 wrapper = soup.find('div', attrs={'id': 'wrapper'})
-print wrapper
+main_inner_group = wrapper.find('div', attrs={'class': 'main-inner group'})
+print main_inner_group
 inner = soup.find('div', attrs={'class': 'inner'})
 print inner
 '''
