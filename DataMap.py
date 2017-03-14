@@ -7,9 +7,6 @@ opener.add_headers = [('User-agent', 'Mozilla/5.0')]
 url = "http://manipalthetalk.org/guides/the-manipal-directory"
 ourUrl = opener.open(url).read()
 soup = BeautifulSoup(ourUrl, 'html.parser')
-
-# print soup.find('h1', attrs={'class':'post-title entry-title'}).text
-# print
 wrapper = soup.find('div', attrs={'id': 'wrapper'})
 main_inner_group = wrapper.find('div', attrs={'class': 'main-inner group'})
 inner = main_inner_group.find('div', attrs={'class': 'entry-inner'})
@@ -29,5 +26,4 @@ for each in table_list:
                 else:
                     print td.text.encode('utf-8').decode('ascii', 'ignore')
                 k += 1
-            # print
     i += 1
