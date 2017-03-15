@@ -16,4 +16,3 @@ table_list = mDirectory.findAll('table')
 k, i = 0, 1
 for each in table_list:
     i += 1
-
